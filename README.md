@@ -1,2 +1,2 @@
 # Ola-Dashboard-Analysis
-This is a PowerBi and MySQL end to end project
+A comprehensive Power BI and MySQL dashboard analyzing Ola ride-hailing data for business intelligence, revenue optimization, and operational insights.
